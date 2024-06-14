@@ -1,4 +1,4 @@
 @echo off
-title Maflex Vanity Swapper V1
+title Maflex Vanity Swapper
 node main.js
 pause
